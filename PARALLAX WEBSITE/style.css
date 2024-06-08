@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    height:100vh;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+}
+.section1{
+    background-image:url(image1.png);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.section11{
+    position:absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+
+
+}
+.span1{
+    background: rgb(53, 52, 52);
+    color: rgb(255, 251, 251);
+    padding: 20px;
+    border-radius: 5px;
+}
+.Section_One{
+    padding: 50px;
+    text-align: center;
+    font-size: 15px;
+   color: #666;
+   line-height: 1.5rem;
+   text-align: justify;
+   text-align: center;
+   padding: 50px 80px 
+  
+}
+.Section_One > h4{
+    font-size: 1.7rem;
+   
+}
+.Section_One > p{
+    padding: 20px;
+}
+.section2{
+    background-image:url(image2.png);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.section22{
+    position:absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: rgb(47, 46, 46);
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.Section_two{
+    padding: 50px;
+    text-align: center;
+    font-size: 15px;
+   color: white;
+   line-height: 1.5rem;
+   text-align: justify;
+   text-align: center;
+   padding: 50px 80px ;
+   background-color: #282e34;
+}
+.Section_two > h4{
+    font-size: 1.7rem;
+   
+}
+.Section_two > p{
+    padding: 20px;
+}
+
+.section3{
+    background-image:url(image3.png);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.section33{
+    position:absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: rgb(47, 46, 46);
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.Section_three{
+    padding: 50px;
+    text-align: center;
+    font-size: 15px;
+   color: white;
+   line-height: 1.5rem;
+   text-align: justify;
+   text-align: center;
+   padding: 50px 80px ;
+   background-color: #282e34;
+}
+.Section_three > h4{
+    font-size: 1.7rem;
+   
+}
+.Section_three > p{
+    padding: 20px;
+}
+.section4{
+    background-image:url(image1.png);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.section44{
+    position:absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
